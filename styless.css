@@ -3,7 +3,7 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.logo1 {
+.logo-first {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -12,8 +12,11 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo2 {
+.logo-second {
   color: #2e2f42;
+}
+.logo-third {
+  color: #f4f4fd;
 }
 .studio {
   font-weight: 500;
