@@ -27,10 +27,59 @@ body {
 .studio:hover {
   color: #404bbf;
 }
-.studio:active {
+.studio:focus {
   color: #404bbf;
 }
-#footer {
+.portfolio {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio:hover {
+  color: #404bbf;
+}
+.portfolio:focus {
+  color: #404bbf;
+}
+.contacts {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.contacts:hover {
+  color: #404bbf;
+}
+.contacts:focus {
+  color: #404bbf;
+}
+.mail {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.mail:hover {
+  color: #404bbf;
+}
+.mail:focus {
+  color: #404bbf;
+}
+.tel {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.tel:hover {
+  color: #404bbf;
+}
+
+.tel:focus {
+  color: #404bbf;
+}
+.footer {
   background-color: #2e2f42;
 }
 .attention {
