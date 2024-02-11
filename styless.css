@@ -18,42 +18,19 @@ body {
 .logo-third {
   color: #f4f4fd;
 }
-.studio {
+.link-classes {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.studio:hover {
+.link-classes:hover {
   color: #404bbf;
 }
-.studio:focus {
+.link-classes:focus {
   color: #404bbf;
 }
-.portfolio {
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.portfolio:hover {
-  color: #404bbf;
-}
-.portfolio:focus {
-  color: #404bbf;
-}
-.contacts {
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.contacts:hover {
-  color: #404bbf;
-}
-.contacts:focus {
-  color: #404bbf;
-}
+
 .mail {
   font-size: 16px;
   line-height: 1.5;
