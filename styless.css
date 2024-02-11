@@ -79,6 +79,9 @@ body {
 .tel:focus {
   color: #404bbf;
 }
+.address {
+  font-style: normal;
+}
 .footer {
   background-color: #2e2f42;
 }
@@ -119,7 +122,6 @@ body {
   color: #ffffff;
 }
 .button {
-  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -127,12 +129,13 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  background-color: #4d5ae5;
+}
+.button:focus {
+  background-color: #404bbf;
 }
 .button:hover {
   background-color: #404bbf;
-}
-.button:active {
-  color: #404bbf;
 }
 .section-second {
 }
