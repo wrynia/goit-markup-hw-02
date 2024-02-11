@@ -30,7 +30,7 @@ body {
 .studio:active {
   color: #404bbf;
 }
-.footer {
+#footer {
   background-color: #2e2f42;
 }
 .attention {
@@ -38,7 +38,7 @@ body {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
-.portfolio {
+.section-fourth {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -79,8 +79,25 @@ body {
   cursor: pointer;
 }
 .button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .button:active {
   color: #404bbf;
+}
+.section-second {
+}
+.section-third {
+  background-color: #f4f4fd;
+}
+
+.crew {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.list-crew {
+  background-color: #ffffff;
 }
